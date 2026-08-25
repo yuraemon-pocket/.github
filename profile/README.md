@@ -1,17 +1,7 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/yuraemon-pocket/.github/main/profile/pocket-logo.png" width="30" alt="유라에몽 포켓 로고">
-  유라에몽 포켓</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=20&pause=1200&color=3E4A91&center=true&vCenter=true&width=520&lines=%EA%B7%80%EC%B0%AE%EC%9D%80%20%EA%B1%B0%20%EC%83%9D%EA%B8%B0%EB%A9%B4%20%EB%B6%88%EB%9F%AC%EC%A4%98;%EC%A3%BC%EB%A8%B8%EB%8B%88%20%EC%97%B4%EC%96%B4%EC%84%9C%20%EB%B0%A9%EB%B2%95%20%ED%95%98%EB%82%98%20%EA%BB%98%EB%82%B4%EC%A4%84%EA%B2%8C" alt="typing">
 </p>
 
-<p align="center">
-  <a href="mailto:yusoeun.dev@gmail.com"><img src="https://img.shields.io/badge/Email-3E4A91?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
-  <a href="https://doplinblue.tistory.com"><img src="https://img.shields.io/badge/Blog-3E4A91?style=flat-square&logo=tistory&logoColor=white" alt="blog"></a>
-</p>
-
----
 
 어제 홍대입구역에서 에어팟을 잃어버렸다고 치자. 확인해야 할 데가 네 군데야. 서울교통공사, 공항철도, 코레일, 경찰청 습득물 조회. 대부분 두 번째쯤에서 포기해.
 
@@ -47,3 +37,10 @@
 ## 다음에 뭐가 들어올지
 
 아직 몰라. 또 뭐가 귀찮아지면 그때 하나 더 넣을 거야.
+
+---
+
+<p align="center">
+  <a href="mailto:yusoeun.dev@gmail.com"><img src="https://img.shields.io/badge/Email-3E4A91?style=flat-square&logo=gmail&logoColor=white" alt="email"></a>
+  <a href="https://doplinblue.tistory.com"><img src="https://img.shields.io/badge/Blog-3E4A91?style=flat-square&logo=tistory&logoColor=white" alt="blog"></a>
+</p>
