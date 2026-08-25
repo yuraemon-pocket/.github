@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=20&pause=1200&color=3E4A91&center=true&vCenter=true&width=520&lines=%EA%B7%80%EC%B0%AE%EC%9D%80%20%EA%B1%B0%20%EC%83%9D%EA%B8%B0%EB%A9%B4%20%EB%B6%88%EB%9F%AC%EC%A4%98;%EC%A3%BC%EB%A8%B8%EB%8B%88%20%EC%97%B4%EC%96%B4%EC%84%9C%20%EB%B0%A9%EB%B2%95%20%ED%95%98%EB%82%98%20%EA%BB%98%EB%82%B4%EC%A4%84%EA%B2%8C" alt="typing">
+  <img src="https://readme-typing-svg.demolab.com?font=Pretendard&size=20&pause=1200&color=3E4A91&center=true&vCenter=true&width=520&lines=%EA%B7%80%EC%B0%AE%EC%9D%80%20%EA%B1%B0%20%EC%83%9D%EA%B8%B0%EB%A9%B4%20%EB%B6%88%EB%9F%AC%EC%A4%98;%EC%A3%BC%EB%A8%B8%EB%8B%88%20%EC%97%B4%EC%96%B4%EC%84%9C%20%EB%B0%A9%EB%B2%95%20%ED%95%98%EB%82%98%20%EA%BA%BC%EB%82%B4%EC%A4%84%EA%B2%8C" alt="typing">
 </p>
 
 
@@ -15,7 +15,7 @@
 ### [ERROR-DETOX](https://github.com/yuraemon-pocket/ERROR-DETOX) ![React](https://img.shields.io/badge/React-3E4A91?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3E4A91?style=flat-square&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/github/stars/yuraemon-pocket/ERROR-DETOX?style=flat-square&color=3E4A91&label=stars)
 에러 로그 보다 지친 날 위한 정화소. TRIZ·SCAMPER·ERRC로 서비스 구조 브레인스토밍도 같이 해.
 
-### [heojeonhande](https://github.com/YuSoeun/heojeonhande) ![Dify](https://img.shields.io/badge/Dify-3E4A91?style=flat-square&logoColor=white) ![Stars](https://img.shields.io/github/stars/YuSoeun/heojeonhande?style=flat-square&color=3E4A91&label=stars)
+### [heojeonhande](https://github.com/YuSoeun/heojeonhande) ![Dify](https://img.shields.io/badge/Dify-3E4A91?style=flat-square&logoColor=white) ![Private](https://img.shields.io/badge/repo-private-3E4A91?style=flat-square)
 "허전한데?" 지하철, 철도, 경찰청에 흩어진 분실물 찾기를 대화 한 번으로 묶는 챗봇. 아직 설계만 끝났어.
 
 
