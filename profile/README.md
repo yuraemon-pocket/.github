@@ -10,18 +10,15 @@
 ## 지금 주머니에 든 것
 
 ### [tiny-delay-timer-chrome-extension](https://github.com/YuSoeun/tiny-delay-timer-chrome-extension)
-백준 풀 때 시간 재는 거, 매번 스톱워치 새로 켜기 귀찮아서 만들었어. 목표 시간 넘으면 배지가 빨개져. Chrome 웹스토어에 올라가 있어.  
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-3E4A91?style=flat-square&logo=googlechrome&logoColor=white) ![Stars](https://img.shields.io/github/stars/YuSoeun/tiny-delay-timer-chrome-extension?style=flat-square&color=3E4A91&label=stars)
+백준 풀 때 시간 재는 거, 매번 스톱워치 새로 켜기 귀찮아서 만들었어. 목표 시간 넘으면 배지가 빨개져. Chrome 웹스토어에 올라가 있어. ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-3E4A91?style=flat-square&logo=googlechrome&logoColor=white) ![Stars](https://img.shields.io/github/stars/YuSoeun/tiny-delay-timer-chrome-extension?style=flat-square&color=3E4A91&label=stars)
 
 
 ### [ERROR-DETOX](https://github.com/yuraemon-pocket/ERROR-DETOX)
 
-에러 로그 보다 지친 날 위한 정화소. TRIZ·SCAMPER·ERRC로 서비스 구조 브레인스토밍도 같이 해.  
-![React](https://img.shields.io/badge/React-3E4A91?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3E4A91?style=flat-square&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/github/stars/yuraemon-pocket/ERROR-DETOX?style=flat-square&color=3E4A91&label=stars)
+에러 로그 보다 지친 날 위한 정화소. TRIZ·SCAMPER·ERRC로 서비스 구조 브레인스토밍도 같이 해. ![React](https://img.shields.io/badge/React-3E4A91?style=flat-square&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3E4A91?style=flat-square&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/github/stars/yuraemon-pocket/ERROR-DETOX?style=flat-square&color=3E4A91&label=stars)
 
 ### [heojeonhande](https://github.com/YuSoeun/heojeonhande)
-"허전한데?" 지하철, 철도, 경찰청에 흩어진 분실물 찾기를 대화 한 번으로 묶는 챗봇. 아직 설계만 끝났어.  
-![Dify](https://img.shields.io/badge/Dify-3E4A91?style=flat-square&logoColor=white) ![Stars](https://img.shields.io/github/stars/YuSoeun/heojeonhande?style=flat-square&color=3E4A91&label=stars)
+"허전한데?" 지하철, 철도, 경찰청에 흩어진 분실물 찾기를 대화 한 번으로 묶는 챗봇. 아직 설계만 끝났어. ![Dify](https://img.shields.io/badge/Dify-3E4A91?style=flat-square&logoColor=white) ![Stars](https://img.shields.io/github/stars/YuSoeun/heojeonhande?style=flat-square&color=3E4A91&label=stars)
 
 
 ## 왜 이런 이름이냐면
